@@ -16,3 +16,11 @@ h5,
 h6 {
   font-family: 'Lato', sans-serif;
 }
+
+.homePage {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+  height: 80vh;
+}
