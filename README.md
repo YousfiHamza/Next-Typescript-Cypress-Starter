@@ -5,9 +5,9 @@
 A TypeScript starter for Next.js & Cypress that includes all you need to build amazing projects 🔥
 
 - ⚛️ **Next** — React Framework ( TypeScript )
-- 🧪 **Cypress** -- JavaScript test automation solution
+- 🧪 **Cypress** — JavaScript test automation solution
 - 📏 **ESLint** — Pluggable JavaScript linter
-- 💖 **Prettier** -- Opinionated Code Formatter
+- 💖 **Prettier** — Opinionated Code Formatter
 
 ## 🚀 Getting started
 
