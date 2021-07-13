@@ -24,7 +24,7 @@ If you prefer you can clone this repository and run the following commands insid
 
 To view the project open `http://localhost:3000`.
 
-To run your test, use the command : 
+To run your test, use the command :
 
     npm run cypress
 
@@ -32,7 +32,6 @@ if you're having some issues related to cypress instalation, then run this comma
 
     .\node_modules\.bin\cypress.cmd install
 
-
 ---
 
-Made with ♥ by Yousfi Hamza
+Made with ♥ by <strong>Hamza</strong>
