@@ -6,11 +6,11 @@ function Home() {
   return (
     <>
       <Head>
-        <title>NEXT TRANSFORMATION</title>
+        <title>NEXT FLOW TRANSFORMATION</title>
       </Head>
       <div className="homePage">
         <h1>Hello From The Other Side</h1>
-        <Image src="/NextTypescriptCypressStarter.png" alt="@Flow" height={123} width={123} />
+        <Image src="/images/flowD.png" alt="@Flow" height={123} width={123} />
       </div>
     </>
   )
