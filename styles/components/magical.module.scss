@@ -1,0 +1,11 @@
+.magicalContainer{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    margin: 3rem;
+    padding: 2rem;
+    .magicalButton{
+        padding: 1rem;
+    }
+}
