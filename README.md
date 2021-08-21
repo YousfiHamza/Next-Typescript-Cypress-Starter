@@ -2,31 +2,37 @@
   <img src="public/NextTypescriptCypressStarter.png" alt="Next.js TypeScript Cypress Starter">
 </p>
 
-A TypeScript starter for Next.js & Cypress that includes all you need to build amazing projects 🔥
+<p align="center"> 🔥 A TypeScript starter for Next.js & Cypress that includes all you need to build amazing projects 🔥 </p>
 
 - ⚛️ **Next** — React Framework ( TypeScript )
+- 🌸 **Sass** — Css Preprocessor
 - 🧪 **Cypress** — JavaScript test automation solution
+- 🔬 **React Testing Lib.** — React component test solution
 - 📏 **ESLint** — Pluggable JavaScript linter
 - 💖 **Prettier** — Opinionated Code Formatter
 
 ## 🚀 Getting started
 
-The best way to start with this template is using `create-next-app`.
+The best way to start with this template is clone this repository and run the following commands inside the project folder:
+
+1. `npm install`
+2. `npm run dev`
+
+If you prefer you can also use `create-next-app`.
 
 ```
 npx create-next-app ts-next -e https://github.com/YousfiHamza/Next-Typescript-Cypress-Starter
 ```
 
-If you prefer you can clone this repository and run the following commands inside the project folder:
+To view your project open `http://localhost:3000`.
 
-1. `npm install`
-2. `npm run dev`
-
-To view the project open `http://localhost:3000`.
-
-To run your test, use the command :
+To run your cypress tests, use the command :
 
     npm run cypress
+
+To run your Jest & React testing Library tests, use the command :
+
+    npm run test
 
 if you're having some issues related to cypress instalation, then run this command at the root of your project folder (otherwise you can ignore this step):
 
@@ -34,4 +40,4 @@ if you're having some issues related to cypress instalation, then run this comma
 
 ---
 
-Made with ♥ by <strong>Hamza</strong>
+Made with 💛 by <strong>Hamza Y.</strong>
