@@ -2,7 +2,7 @@
   <img src="public/NextTypescriptCypressStarter.png" alt="Next.js TypeScript Cypress Starter">
 </p>
 
-<p align="center"> 🔥 A TypeScript starter for Next.js & Cypress that includes all you need to build amazing projects 🔥 </p>
+## <p align="center"> 🔥 A TypeScript starter for Next.js & Cypress that includes all you need to build amazing projects 🔥 </p>
 
 - ⚛️ **Next** — React Framework ( TypeScript )
 - 🌸 **Sass** — Css Preprocessor
@@ -10,6 +10,8 @@
 - 🔬 **React Testing Lib.** — React component test solution
 - 📏 **ESLint** — Pluggable JavaScript linter
 - 💖 **Prettier** — Opinionated Code Formatter
+
+<hr />
 
 ## 🚀 Getting started
 
